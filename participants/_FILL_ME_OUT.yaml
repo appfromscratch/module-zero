@@ -1,0 +1,47 @@
+# Your real name is preferred, as this is a professional endeavor where you will meet others and network, potentially gaining references. Though it's your choice.
+name: <Replace with your name>
+# Add any additional profiles you care to share, following YAML's syntax. Keep in mind that anything you share here is public, so be sure that you want to share it.
+profile:
+  - github: <Link to your github profile here>
+  - linkedin: <Link to your LinkedIn profile here>
+  - twitter: <Link to your Twitter profile here>
+  - quora: <Link to your Quora profile here>
+  - facebook: <Link to your Facebook profile here>
+# Experience Level.
+# Keep the experience that describes you, delete everything else, and add things that are missing.
+# This will help tailor the course level toward your needs.
+experience:
+  overall:
+    - no experience
+    - < 1 year
+    - 1 - 3 years
+    - 3 - 10 years
+    - 10+ years
+  web_development:
+    - no experience
+    - have done some JavaScript
+    - have done some Node.js development
+    - have worked with another platform such as PHP, RoR, Java, .Net
+  technologies_i_have_worked_with:
+    - JavaScript
+    - Node.js
+    - Java
+    - C#
+    - PHP
+    - SQL
+    - TypeScript
+    - React
+# What areas of skills that you know you want to improve on? Add anything 
+skill_focuses:
+  - how to design apps
+  - how to turn features into code
+  - <anything else>
+# what is your development environment? specifically, are you primarily on Windows, OS X, or Linux?
+environment:
+ - windows
+ - osx
+ - linux
+# Describe the app(s) you want to build, in as much details as you could.
+my_apps:
+  - <My first dream app is ...>
+  - <My second dream app is ...>
