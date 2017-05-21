@@ -1,0 +1,34 @@
+# Your real name is preferred, as this is a professional endeavor where you will meet others and network, potentially gaining references. Though it's your choice.
+name: Yinso Chen
+# Add any additional profiles you care to share, following YAML's syntax. Keep in mind that anything you share here is public, so be sure that you want to share it.
+profile:
+  - github: https://github.com/yinso
+  - lnkedin: https://linkedin.com/in/yinsochen
+  - twitter: https://twitter.com/caracarn
+  - quora: https://quora.com/profile/Yinso-Chen
+# Experience Level.
+# Keep the experience that describes you, delete everything else, and add things that are missing.
+# This will help tailor the course level toward your needs.
+experience:
+  overall:
+    - 10+ years
+  web_development:
+    - have done extensive Node.js development
+    - have worked with another platform such as PHP, RoR, Java, .Net
+  technologies_i_have_worked_with:
+    - JavaScript
+    - Node.js
+    - Java
+    - C#
+    - PHP
+    - SQL
+    - TypeScript
+    - React
+# what is your development environment? specifically, are you primarily on Windows, OS X, or Linux?
+environment:
+ - windows
+ - osx
+ - linux
+# Describe the app(s) you want to build, in as much details as you could.
+my_apps:
+  - My first dream app is to build up the appfromscratch.com learning platform, where aspired developers who want to learn beyond just how to code can learn to develop apps from scratch comprehensively within this platform, and they can find others to work together on their dream apps.
