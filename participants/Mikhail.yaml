@@ -1,0 +1,27 @@
+# Your real name is preferred, as this is a professional endeavor where you will meet others and network, potentially gaining references. Though it's your choice.
+name: Mikhail Kotykhov
+# Add any additional profiles you care to share, following YAML's syntax. Keep in mind that anything you share here is public, so be sure that you want to share it.
+profile:
+  - github: https://github.com/MikhailKotykhov
+  - linkedin: https://www.linkedin.com/in/kotykhov/
+  - twitter: https://twitter.com/MikhailKotykhov
+  - quora: https://www.quora.com/profile/Mikhail-Kotykhov
+  - facebook: https://www.facebook.com/mikhail.kotykhov.7
+# Experience Level.
+# Keep the experience that describes you, delete everything else, and add things that are missing.
+# This will help tailor the course level toward your needs.
+experience:
+  overall:
+    - no experience    
+  web_development:
+    - no experience  
+# What areas of skills that you know you want to improve on? Add anything 
+skill_focuses:
+  - how to design apps
+  - how to turn features into code
+# what is your development environment? specifically, are you primarily on Windows, OS X, or Linux?
+environment:
+ - windows
+# Describe the app(s) you want to build, in as much details as you could.
+my_apps:
+  - My first dream app is a language speaking application
